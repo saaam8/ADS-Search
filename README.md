@@ -1,6 +1,8 @@
 
 # ADS-Search
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15477355.svg)](https://doi.org/10.5281/zenodo.15477355)
+
 ADS-Search (Adaptive Divisional Search) is a modular, intelligent algorithm for high-dimensional data search.
 
 ## 🔍 Features
