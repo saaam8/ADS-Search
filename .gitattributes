@@ -1,0 +1,7 @@
+
+# Ensure consistent text formatting
+* text=auto
+*.py text eol=lf
+*.md text eol=lf
+*.pdf binary
+*.zip binary
